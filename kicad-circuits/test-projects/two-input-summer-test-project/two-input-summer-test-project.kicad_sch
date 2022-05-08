@@ -551,7 +551,7 @@
     (property "Sheet name" "Two Input Summer Inverting" (id 0) (at 130.81 90.7284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "2-input-summer-inverting.kicad_sch" (id 1) (at 130.81 114.8846 0)
+    (property "Sheet file" "../../summer/2-input-summer-inverting.kicad_sch" (id 1) (at 130.81 114.8846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "A_VEE" input (at 138.43 114.3 270)
